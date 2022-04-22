@@ -8,7 +8,7 @@
     },
     "bot_token": {
       "description": "El token del bot",
-      "value":""
+      "value":"Inserte Aquí"
     }
   }
 }
